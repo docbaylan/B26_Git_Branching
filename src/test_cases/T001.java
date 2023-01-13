@@ -9,5 +9,9 @@ public class T001 {
     //would be better
     //and now better
 
+    // negative testing
+
+    //added negative testing
+
 
 }
