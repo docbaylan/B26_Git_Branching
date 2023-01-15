@@ -14,6 +14,7 @@ public class T001 {
     //added negative testing
 
     //positive testing
+    // all done at once
 
 
 }
