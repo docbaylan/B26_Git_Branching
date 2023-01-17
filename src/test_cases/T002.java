@@ -18,5 +18,7 @@ public class T002 {
 
         //-origin means remote repository
 
+        // how to pull
+
 }
 }
